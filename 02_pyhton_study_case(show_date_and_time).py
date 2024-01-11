@@ -14,5 +14,5 @@ now = datetime.now()
 
 
 # dd/mm/YY H:M:S
-dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
-print("Current date and time is", dt_string)
+dt_string = now.strftime("%d-%m-%Y %H:%M:%S")
+print("Current date and time: ", dt_string)
