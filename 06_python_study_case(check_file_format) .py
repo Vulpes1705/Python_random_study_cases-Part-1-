@@ -2,10 +2,6 @@
 # from https://www.w3resource.com/python-exercises/python-basic-exercises.php 
 
 # THE TASK 
-# Study beginner tasks 
-# from https://www.w3resource.com/python-exercises/python-basic-exercises.php 
-
-# THE TASK 
 # Write a Python program that accepts a filename from the user and prints the extension of the file.  
 
 
